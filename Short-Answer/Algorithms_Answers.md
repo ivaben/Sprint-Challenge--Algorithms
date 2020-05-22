@@ -2,14 +2,18 @@
 
 ## Exercise I
 
-a)
+a)O(n)
 
 
-b)
+b)O(log n)
 
 
-c)
+c)O(n)
 
 ## Exercise II
+I would use binary search. I will divide the n-story building in half and every time I 
+will eliminate half the remaining numbers until to found the target (f-floor).
+O(log n)
+
 
 
