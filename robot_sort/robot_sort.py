@@ -129,7 +129,8 @@ class SortingRobot:
         self.set_light_on() 
         
         move_to_next()
-        
+
+       
 
 
 
